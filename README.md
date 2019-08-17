@@ -10,9 +10,9 @@ this is medical chatbot based medical graph
 ![image](https://github.com/pengcao/medical_chatbot_kg/blob/master/result/01.medical_graph-10.png)
 
 # 申明
-1.本项目构建以疾病为中心的医疗知识图谱，实体规模4.4万，实体关系规模30万；
-2.数据来源于互联网爬取，如有冒犯之处可以联系，进行整改；
-3.如有疑问可联系：deamoncao@163.com
+1.本项目构建以疾病为中心的医疗知识图谱，实体规模4.4万，实体关系规模30万；   
+2.数据来源于互联网爬取，如有冒犯之处可以联系，进行整改；   
+3.如有疑问可联系：deamoncao@163.com   
 
 
 

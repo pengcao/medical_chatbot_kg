@@ -9,7 +9,7 @@ this is medical chatbot based medical graph
 3.运行run_scripts/WebApp.py，将会开启web服务，http get方法调用聊天接口http://127.0.0.1:8083/medical/%E6%84%9F%E5%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E7%97%87%E7%8A%B6%EF%BC%9F
 ![image](https://github.com/pengcao/medical_chatbot_kg/blob/master/result/01.medical_graph-10.png)
 
-# 申明
+# 总结
 1.本项目构建以疾病为中心的医疗知识图谱，实体规模4.4万，实体关系规模30万；   
 2.数据来源于互联网爬取，如有冒犯之处可以联系，进行整改；   
 3.如有疑问可联系：deamoncao@163.com   

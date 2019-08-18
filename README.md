@@ -1,6 +1,12 @@
 # medical_chatbot_kg
 this is medical chatbot based medical graph
 
+# 所依赖的python包
+Flask                       1.1.1  
+Flask-RESTful               0.3.7  
+py2neo                      4.3.0  
+pyahocorasick               1.4.0  
+
 # 运行方式
 1.首先安装neo4j数据库，运行run_scripts/MedicalGraphBuilder.py  构建医疗知识图谱
 ![image](https://github.com/pengcao/medical_chatbot_kg/blob/master/result/01.medical_graph-08.png)

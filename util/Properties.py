@@ -221,8 +221,8 @@ if __name__ == '__main__':
     newDict['country']='china'
     newDict['province']='GuangDong'
     newDict['city']='ShenZhen'
-    newDict['sender']='caopeng557@pingan.com.cn'
-    newDict['others23']='pingan-net'
+    newDict['sender']=''
+    newDict['others23']=''
     properties.putMulitAndSaveNewFile(newDict,newFilepath)
     # receiverListStr = properties.getValStrByKey("receiver")
     # print("receiver : ",receiverListStr)
